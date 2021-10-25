@@ -1,2 +1,2 @@
-# KorisnickaSuceljaProjekt
-Semestarski projekt za predmet Korisnička Sučelja 2021.
+# HCI-2021-22
+Vjezbe iz predmeta HCI
