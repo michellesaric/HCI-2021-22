@@ -1,8 +1,6 @@
-import React from "react";
-import Header from "../modules/header";
+import React from 'react';
+import Header from '../modules/header/header.js';
 
-const Home = () => {
-  return <Header />;
-};
+const Hello = () => <Header />;
 
-export default Home;
+export default Hello;
